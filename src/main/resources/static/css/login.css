@@ -1,0 +1,41 @@
+body {
+    background: url("/img/fondo.jpg") !important;
+}
+
+.panel h3 {
+    color: #333;
+    margin: 0 0 0.5rem 0;
+}
+
+.panel h6 {
+    color: #999;
+    margin-bottom: 2rem;
+}
+
+.login-form .form-control {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #d4d4d4;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 50px;
+    line-height: 50px;
+}
+
+main {
+    background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+    border-radius: 5px;
+    padding: 3rem;
+    max-width: 50%;
+}
+
+.login-form {
+    text-align: center;
+}
+
+.login-form button {
+    background: #8009f7 !important;
+    border-color: #5709ad !important;
+    font-size: 1rem;
+    padding: 0.625rem;
+    width: 100%;
+}
